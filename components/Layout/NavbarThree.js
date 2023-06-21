@@ -69,11 +69,13 @@ const NavbarThree = () => {
            
                     {screenWidth > 760 ? (
                       <img
+                        alt="image"
                         src="/images/black-logo.png"
                         className={styles.longImage}
                       />
                     ) : (
                       <img
+                        alt="image"
                         src="/images/black-logo.png"
                         className={styles.smallImage}
                       />
