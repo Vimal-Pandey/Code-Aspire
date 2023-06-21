@@ -66,10 +66,12 @@ const NavbarTwo = () => {
                   {screenWidth > 760 ? (
                       <img
                         src="/images/logo.png"
+                        alt="image"
                         className={styles.longImage}
                       />
                     ) : (
                       <img
+                        alt="image"
                         src="/images/logo.png"
                         className={styles.smallImage}
                       />
