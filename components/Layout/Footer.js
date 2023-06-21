@@ -31,7 +31,7 @@ const Footer = () => {
               
                 <li>
                   <a
-                    href="https://m.facebook.com/ThoughtsBig/"
+                    href="https://www.facebook.com/profile.php?id=100070215794236&mibextid=LQQJ4d"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -49,7 +49,7 @@ const Footer = () => {
                 </li> */}
                 <li>
                   <a
-                    href="https://www.linkedin.com/company/thoughts-big-consulting-private-limited/mycompany/"
+                    href="https://www.linkedin.com/company/codeaspire-consultancy-services/"
                     target="_blank"
                     rel="noreferrer"
                   >
