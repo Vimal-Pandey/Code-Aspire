@@ -206,7 +206,7 @@ const NavbarTwo = () => {
               <div className="sidebar-content">
                 <h3>About Us</h3>
                 <p>
-                Welcome to ThoughtsBig, One of the mushrooming IT service
+                Welcome to Code Aspire, One of the mushrooming IT service
                   organization in North india .We make it easy for businesses to
                   find the most talented developers, Quality analysts and
                   marketers as per their needs faster and more efficiently.
@@ -230,7 +230,7 @@ const NavbarTwo = () => {
 
                   <li>
                     <i className="ri-mail-line"></i>{" "}
-                    <a href="mailto:info@thoughtsbig.com">info@thoughtsbig.com</a>
+                    <a href="mailto:hr@codeaspire.com">hr@codeaspire.com</a>
                   </li>
 
                   
@@ -240,7 +240,7 @@ const NavbarTwo = () => {
               <ul className="sidebar-social-list">
                 <li>
                   <a
-                    href="https://m.facebook.com/ThoughtsBig/"
+                    href="https://www.facebook.com/profile.php?id=100070215794236&mibextid=LQQJ4d"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -258,7 +258,7 @@ const NavbarTwo = () => {
                 </li> */}
                 <li>
                   <a
-                    href="https://www.linkedin.com/company/thoughts-big-consulting-private-limited/mycompany/"
+                    href="https://www.linkedin.com/company/codeaspire-consultancy-services/"
                     target="_blank"
                     rel="noreferrer"
                   >
