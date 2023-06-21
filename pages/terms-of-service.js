@@ -46,7 +46,7 @@ export default function TermsOfService() {
                 <h3>
                   <span>1.</span> Our Website
                 </h3>
-                <p>Our website address is: https://thoughtsbig.com</p>
+                <p>Our website address is: https://code-aspire.com</p>
                 <blockquote className="blockquote">
                   <p>
                     We collect certain data from you directly, like information
