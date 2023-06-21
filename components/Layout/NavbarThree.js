@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+  import React, { useState } from "react";
 import Link from "@/utils/ActiveLink";
 import Image from "next/image";
 import { useEffect } from "react";
@@ -230,8 +230,8 @@ const NavbarThree = () => {
 
                   <li>
                     <i className="ri-mail-line"></i>{" "}
-                    <a href="mailto:hr@codeaspire.com">
-                      hr@codeaspire.com</a>
+                    <a href="mailto:hr@code-aspire.com">
+                      hr@code-aspire.com</a>
                   </li>
                 </ul>
               </div>
