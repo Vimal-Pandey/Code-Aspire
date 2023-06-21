@@ -22,7 +22,7 @@ export default function Services() {
             data-aos-duration="500"
             data-aos-once="true"
           >
-            <h2>Services Style Two</h2>
+            <h2>Services</h2>
             <ul>
               <li>
                 <Link href="/">
