@@ -232,7 +232,7 @@ const NavbarTwo = () => {
 
                   <li>
                     <i className="ri-mail-line"></i>{" "}
-                    <a href="mailto:hr@codeaspire.com">hr@codeaspire.com</a>
+                    <a href="mailto:hr@code-aspire.com">hr@code-aspire.com</a>
                   </li>
 
                   
