@@ -1,5 +1,5 @@
 import React from "react";
-
+import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
 import WhoWeAre from '@/components/AboutThree/WhoWeAre';
 import WorkingProcess from '@/components/Common/WorkingProcess';
@@ -27,7 +27,14 @@ export default function About() {
             data-aos-once="true"
           >
             <h2>About us</h2>
-            
+            <ul>
+              <li>
+                <Link href="/">
+                  <a>Home</a>
+                </Link>
+              </li>
+              <li>About</li>
+            </ul>
           </div>
         </div>
       </div>
