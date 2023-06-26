@@ -13,7 +13,7 @@ const AllServicesCardStyle2 = () => {
             </h2>
             <p>
               We are technology solutions providing company all over the world
-              doing over 40 years. lorem ipsum dolor sit amet.
+              doing over 40 years.
             </p>
           </div>
 
