@@ -27,8 +27,7 @@ const WhoWeAre = () => {
                 data-aos-once="true"
               >
                 <div className="about-bg-text">ABOUT US</div>
-                <span>WHO WE ARE</span>
-                <h3>Your Trusted Partner For All IT Solutions</h3>
+                <h3 style={{fontFamily:"serif"}}>WHO WE ARE</h3>
                 <p>
                   We are leading technology solutions providing company all over
                   the world. We are creating a new wave in remote hiring by
