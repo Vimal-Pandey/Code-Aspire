@@ -25,7 +25,7 @@ export default function Services() {
             <h2>Services</h2>
             <ul>
               <li>
-                <Link href="/">
+                <Link href="/Product">
                   <a>Home</a>
                 </Link>
               </li>
