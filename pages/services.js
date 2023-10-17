@@ -25,11 +25,11 @@ export default function Services() {
             <h2>Services</h2>
             <ul>
               <li>
-                <Link href="/Product">
+                <Link href="/">
                   <a>Home</a>
                 </Link>
               </li>
-              <li>Services</li>
+              <li>Servic</li>
             </ul>
           </div>
         </div>

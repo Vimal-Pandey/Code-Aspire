@@ -117,6 +117,8 @@ const Navbar = () => {
                           </Link>
                         </li>
 
+                        
+
                         <li className="nav-item">
                           <Link href="/gallery" activeClassName="active">
                             <a className="nav-link">Gallery</a>
@@ -158,12 +160,6 @@ const Navbar = () => {
                         </li>
                       </ul>
                     </li>
-
-               
-
-                    
-
-                    
 
                   
 

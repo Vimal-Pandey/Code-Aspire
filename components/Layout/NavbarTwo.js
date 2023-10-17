@@ -113,7 +113,11 @@ const NavbarTwo = () => {
                       </Link>
                     </div>
                     
-
+                    <div className="nav-item">
+                      <Link href="/products" activeClassName="active">
+                        <a className="nav-link">Products</a>
+                      </Link>
+                    </div>
                    
 
 

@@ -119,6 +119,12 @@ const NavbarThree = () => {
                     </li>
 
                     <li className="nav-item">
+                      <Link href="/product" activeClassName="active">
+                        <a className="nav-link">Products</a>
+                      </Link>
+                    </li>
+
+                    <li className="nav-item">
                       <Link href="/contact" activeClassName="active">
                         <a className="nav-link">Contact</a>
                       </Link>
@@ -207,7 +213,7 @@ const NavbarThree = () => {
                 <h3>About Us</h3>
                 <p>
                   Welcome to Code Aspire, One of the mushrooming IT service
-                  organization in North India . We make it easy for businesses to
+                  organization in India . We make it easy for businesses to
                   find the most talented developers, Quality analysts and
                   marketers as per their needs faster and more efficiently.
                 </p>
