@@ -1,11 +1,12 @@
 import React from "react";
 import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
-import AllServicesCardStyle2 from "@/components/Services/AllServicesCardStyle2";
+// import AllServicesCardStyle2 from "@/components/Services/AllServicesCardStyle2";
 import ContactForm from "@/components/Common/ContactForm";
+import AllProductsCardStyle2 from "@/components/Products/AllProductsCardStyle2";
 import Footer from "@/components/Layout/Footer";
 
-export default function Product() {
+export default function products() {
   return (
     <>
       <NavbarTwo />
@@ -35,8 +36,8 @@ export default function Product() {
         </div>
       </div>
   
-      <AllServicesCardStyle2 />
-
+      {/* <AllServicesCardStyle2 /> */}
+<AllProductsCardStyle2/>
       <ContactForm />
 
       <Footer />

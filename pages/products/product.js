@@ -3,11 +3,11 @@ import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
 import KeyFeatures from "@/components/Common/KeyFeatures";
 // import AllServicesCard from "@/components/Services/AllServicesCard";
-import AllProductCard from "@/components/Products/AllProductsCard";
+import AllProductsCard from "@/components/Products/AllProductsCard";
 import ContactForm from "@/components/Common/ContactForm";
 import Footer from "@/components/Layout/Footer";
 
-export default function Product() {
+export default function product() {
   return (
     <>
       <NavbarTwo />
@@ -24,14 +24,14 @@ export default function Product() {
             data-aos-duration="500"
             data-aos-once="true"
           >
-            <h2>Services Style One</h2>
+            <h2>Product Overview</h2>
             <ul>
               <li>
                 <Link href="/">
                   <a>Home</a>
                 </Link>
               </li>
-              <li>Services</li>
+              <li>Product</li>
             </ul>
           </div>
         </div>
@@ -40,7 +40,7 @@ export default function Product() {
       <KeyFeatures />
 
       {/* <AllServicesCard /> */}
-      <AllProductCard/>
+      <AllProductsCard/>
       <ContactForm />
 
       <Footer />

@@ -26,7 +26,7 @@ const ProductsSlider = () => {
                   world .
                 </p>
                 <div className="services-section-btn">
-                  <Link href="/services">
+                  <Link href="/products">
                     <a className="default-btn">Explore All Services</a>
                   </Link>
                 </div>

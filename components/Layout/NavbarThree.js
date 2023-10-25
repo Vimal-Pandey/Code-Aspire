@@ -103,7 +103,7 @@ const NavbarThree = () => {
                   <ul className="navbar-nav ms-auto">
                     <div className="nav-item">
                       <Link href="/" activeClassName="active">
-                        <a className="nav-link">Home Page</a>
+                        <a className="nav-link">Home</a>
                       </Link>
                     </div>
 
@@ -119,7 +119,7 @@ const NavbarThree = () => {
                     </li>
 
                     <li className="nav-item">
-                      <Link href="/product" activeClassName="active">
+                      <Link href="/products" activeClassName="active">
                         <a className="nav-link">Products</a>
                       </Link>
                     </li>

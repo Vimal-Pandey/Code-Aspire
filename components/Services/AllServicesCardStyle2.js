@@ -7,9 +7,9 @@ const AllServicesCardStyle2 = () => {
       <div className="services-area pt-100 pb-75">
         <div className="container">
           <div className="section-title">
-            <span>SERVICESaaee</span>
+            <span>SERVICES</span>
             <h2>
-              We Provide the Best Qualityssss <b>Services</b>
+              We Provide the Best Quality <b>Services</b>
             </h2>
             <p>
               We are technology solutions providing company all over the world

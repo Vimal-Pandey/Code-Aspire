@@ -29,7 +29,7 @@ export default function Services() {
                   <a>Home</a>
                 </Link>
               </li>
-              <li>Servic</li>
+              <li>Services</li>
             </ul>
           </div>
         </div>

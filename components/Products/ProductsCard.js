@@ -7,7 +7,7 @@ const ProductCard = () => {
       <div className="services-area bg-with-14042C-color ptb-100">
         <div className="container">
           <div className="section-title">
-            <span>SERVICESees</span>
+            <span>SERVICES</span>
             <h2>
               We Provide the Best Quality <b>Services</b>
             </h2>

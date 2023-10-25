@@ -1,19 +1,19 @@
 import React from "react";
 import Link from "next/link";
 
-const AllProductCard = () => {
+const AllProductsCard = () => {
   return (
     <>
       <div className="services-area bg-with-14042C-color rounded-0 ptb-100">
         <div className="container">
           <div className="section-title">
-            <span>SERVICES</span>
+            <span>Product</span>
             <h2>
-              We Provide the Best Quality <b>Services</b>
+              We Provide the Best Quality <b>Products</b>
             </h2>
             <p>
-              We are technology solutions providing company all over the world
-              doing over 40 years. lorem ipsum dolor sit amet.
+              our company has been a global technology solutions provider, leveraging innovation 
+              and tailored expertise to serve diverse clients across various industries. 
             </p>
           </div>
 
@@ -23,18 +23,20 @@ const AllProductCard = () => {
                 <div className="services-image">
                   <Link href="/Products/products-details">
                     <a>
-                      <img src="/images/services/services-1.jpg" alt="image" />
+                      <img src="/images/products/prism gate.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>Database Administrator</a>
+                      {/* <a>Database Administrator</a> */}
+                      <a>Prism Gate</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…
+                  Prism Gate by Code Aspire is more than just an app, it's a commitment to enhancing the 
+                  quality of life within your community.
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>
@@ -48,18 +50,20 @@ const AllProductCard = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/services/services-2.jpg" alt="image" />
+                      <img src="/images/products/prism office.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>Software Development</a>
+                      {/* <a>Software Development</a> */}
+                      <a>Prism Office</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…
+                  Prism Office by the Code Aspire is the ultimate solution to simplify your workplace operations, 
+                  enhance security.
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>
@@ -73,18 +77,20 @@ const AllProductCard = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/services/services-3.jpg" alt="image" />
+                      <img src="/images/products/prism scanner.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>App Development</a>
+                      {/* <a>App Development</a> */}
+                      <a>Prism Scanner</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…
+                  Discover the power of Prism Scanner by Code Aspire and transform the way you manage 
+                  attendance and access control.
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>
@@ -93,7 +99,7 @@ const AllProductCard = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
+            {/* <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image">
                   <Link href="/products/products-details">
@@ -116,9 +122,9 @@ const AllProductCard = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="col-lg-4 col-md-6">
+            {/* <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image">
                   <Link href="/products/products-details">
@@ -141,9 +147,9 @@ const AllProductCard = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="col-lg-4 col-md-6">
+            {/* <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image">
                   <Link href="/products/products-details">
@@ -166,7 +172,7 @@ const AllProductCard = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -182,4 +188,4 @@ const AllProductCard = () => {
   );
 };
 
-export default AllProductCard;
+export default AllProductsCard;

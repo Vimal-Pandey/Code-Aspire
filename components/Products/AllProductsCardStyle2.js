@@ -7,9 +7,9 @@ const AllProductsCardStyle2 = () => {
       <div className="services-area pt-100 pb-75">
         <div className="container">
           <div className="section-title">
-            <span>SERVICES</span>
+            <span>PRODUCTS</span>
             <h2>
-              We Provide the Best Quality <b>Services</b>
+              We Provide the Best Quality <b>Products</b>
             </h2>
             <p>
               We are technology solutions providing company all over the world
@@ -23,20 +23,20 @@ const AllProductsCardStyle2 = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/services/services-2.jpg" alt="image" />
+                      {/* <img src="/images/services/services-2.jpg" alt="image" /> */}
+                      <img src="/images/products/prism office.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>Software Development</a>
+                      <a>Prism Office</a>
                     </Link>
                   </h3>
                   <p>
-                    Software development involves designing and building
-                    tailored solutions that address specific business needs,
-                    ensuring efficiency and scalability.
+                  The Prism Office Employee Management, Visitor QR Code, and Attendance System is an 
+                  integrated solution designed to streamline office operations and enhance security.
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>
@@ -50,20 +50,19 @@ const AllProductsCardStyle2 = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/services/services-3.jpg" alt="image" />
+                      <img src="/images/products/prism gate.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>App Development</a>
+                      <a>Prism Gate</a>
                     </Link>
                   </h3>
                   <p>
-                    App development involves creating robust, user-friendly
-                    mobile applications that meet client requirements and
-                    enhance customer experiences.
+                  The scanner policy for the Prism Gate application is a critical component of 
+                  ensuring security and access control within your organization's premises..
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>
@@ -77,21 +76,19 @@ const AllProductsCardStyle2 = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/services/services-4.jpg" alt="image" />
+                      <img src="/images/products/prism scanner.jpg" alt="image" />
                     </a>
                   </Link>
                 </div>
                 <div className="services-content">
                   <h3>
                     <Link href="/products/products-details">
-                      <a>Web </a>
+                      <a>Prism Scanner</a>
                     </Link>
                   </h3>
                   <p>
-                    Web development for an IT services company entails crafting
-                    responsive, visually appealing websites with seamless
-                    navigation and robust functionality to meet client
-                    objectives.
+                  The scanner policy for the Prism Gate application is a critical component of 
+                  ensuring security and access control within your organization's premises.
                   </p>
                   <Link href="/products/products-details">
                     <a className="services-btn">View More</a>

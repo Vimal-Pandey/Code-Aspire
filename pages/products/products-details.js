@@ -1,7 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
-import ServicesDetailsContent from "@/components/Services/ServicesDetailsContent";
+// import ServicesDetailsContent from "@/components/Services/ServicesDetailsContent";
+import ProductsDetailsContent from "@/components/Products/ProductsDetailsContent";
 import ContactForm from "@/components/Common/ContactForm";
 import ServiceSlider from "@/components/Services/ServiceSlider";
 import CTO from "@/components/Common/CTO";
@@ -24,20 +25,21 @@ export default function ProductDetails() {
             data-aos-duration="500"
             data-aos-once="true"
           >
-            <h2>Services Details</h2>
+            <h2>Product Details</h2>
             <ul>
               <li>
                 <Link href="/">
                   <a>Home</a>
                 </Link>
               </li>
-              <li>Services Details</li>
+              <li>Product Details</li>
             </ul>
           </div>
         </div>
       </div>
 
-      <ServicesDetailsContent />
+      {/* <ServicesDetailsContent /> */}
+      <ProductsDetailsContent/>
       <ContactForm />
       <CTO />
 

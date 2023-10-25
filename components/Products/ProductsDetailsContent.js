@@ -7,7 +7,7 @@ const ProductsDetailsContent = () => {
         <div className="container">
           <div className="services-details-desc">
             <div className="article-services-content">
-              <h3>App Developm</h3>
+              <h3>Prism Office</h3>
               <div className="article-services-image">
                 <img
                   src="/images/services-details/services-details-1.jpg"
@@ -15,55 +15,50 @@ const ProductsDetailsContent = () => {
                 />
               </div>
               <p style={{ marginTop: 20 }}>
-                App development is a crucial service provided our company,
-                involving the creation, design, and deployment of mobile
-                applications. It encompasses various stages such as
-                conceptualization, prototyping, development, testing, and
-                deployment. App developers utilize programming languages like
-                Java, Kotlin, Swift, or React Native to build native or
-                cross-platform apps that deliver a seamless user experience.
-                They work closely with clients to understand their objectives
-                and target audience, ensuring the app aligns with their branding
-                and functionality requirements.
+              The Prism Office Employee Management, Visitor QR Code, 
+              and Attendance System is an integrated solution designed to streamline office 
+              operations and enhance security. This comprehensive system combines employee 
+              management, visitor check-in, and attendance tracking into a single platform. 
+              Below, we delve into the key features and benefits of this innovative system.
               </p>
               <p>
-                App developers also focus on optimizing performance, security,
-                and compatibility across different devices and operating
-                systems. Continuous updates and maintenance are performed to
-                address bugs, introduce new features, and ensure the app remains
-                reliable and engaging for users.
+                  <h3>Employee Management</h3>
+
+                  The Prism Office Employee Management, Visitor QR Code, and Attendance System is a 
+                  versatile and comprehensive solution for modern offices. By integrating employee management, 
+                  visitor registration, and attendance tracking into a single platform, it offers significant 
+                  efficiency gains and enhanced security. This system is a valuable 
+                  addition to any organization looking to optimize its daily operations and safeguard its premises.
               </p>
 
               <ul className="list">
                 <li>
-                  <h4>What You Will Get Under This Service</h4>
+                  <h4>What You Will Get Under This product</h4>
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> We provide
-                  tailored app development services, ensuring that the app
-                  aligns with your specific business requirements and goals.
+                  <i className="ri-checkbox-circle-line"></i> Employee Records: The system allows HR departments 
+                  to maintain detailed employee records, including personal information, contact 
+                  details, and job history.
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> Our team focuses
-                  on creating intuitive and user-friendly app interfaces,
-                  enhancing user experience and engagement.
+                  <i className="ri-checkbox-circle-line"></i> Attendance Tracking: It provides real-time 
+                  attendance tracking, making it easy to monitor and manage employee attendance 
+                  and punctuality
+                  
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> We develop apps
-                  that are compatible with multiple platforms, such as iOS,
-                  Android, and web, maximizing your reach and user base.
+                  <i className="ri-checkbox-circle-line"></i> Real-time Updates: The system provides real-time updates on attendance, 
+                  which can be monitored by supervisors and HR personnel.
                 </li>
-                <li>
-                  <i className="ri-checkbox-circle-line"></i> Our apps are built
-                  with scalability and security in mind, allowing them to handle
-                  increasing user demands and ensuring data protection.
+                {/* <li>
+                  <i className="ri-checkbox-circle-line"></i> 
                 </li>
                 <li>
                   <i className="ri-checkbox-circle-line"></i> We ensure smooth
                   integration of your app with other systems, APIs, and
                   third-party services, expanding its functionality and
                   connectivity.
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="row">
@@ -86,16 +81,15 @@ const ProductsDetailsContent = () => {
             </div>
             <div className="article-services-content">
               <p>
-                A well-designed and user-friendly app can attract a larger user
-                base, resulting in increased customer acquisition and retention.
-                This expanded customer base can drive higher sales and revenue
-                for your business.
+              Employees and visitors can use QR codes to check in and out of the office, 
+              simplifying attendance tracking.
               </p>
               <p>
-                Depending on your business model, you can monetize your app
-                through various means, such as in-app purchases, subscriptions,
-                advertising, or premium features. These revenue streams can
-                significantly contribute to your overall profitability.
+              The scanner policy for the Prism Gate application is a critical component of ensuring 
+              security and access control within your organization's premises. This policy outlines the rules 
+              and guidelines for the use of scanners and scanning equipment at entry and exit points to maintain 
+              a secure and efficient operation. Below, we present a comprehensive note on the scanner policy 
+              for the Prism Gate application.
               </p>
             </div>
             <div className="article-services-quote">
@@ -114,10 +108,11 @@ const ProductsDetailsContent = () => {
             </div>
             <div className="article-services-content">
               <p>
-                An app can provide valuable insights into user behavior,
-                preferences, and purchasing patterns. By analyzing this data,
-                you can make informed business decisions, optimize marketing
-                strategies, and identify new revenue opportunities.
+              The scanner policy for the Prism Gate application is essential for maintaining a 
+              secure and efficient access control system within your organization. By adhering to 
+              these guidelines and regularly reviewing and updating the policy, you can ensure that 
+              your premises are protected from security threats while promoting a smooth and 
+              hassle-free entry and exit experience for all personnel and visitors.
               </p>
               <p>
                 Depending on your business model, you can monetize your app
@@ -131,7 +126,7 @@ const ProductsDetailsContent = () => {
         <div className="container">
           <div className="services-details-desc">
             <div className="article-services-content">
-              <h3>Web Development</h3>{" "}
+              <h3>Prism Gate</h3>{" "}
               <div className="article-services-image">
                 <img
                   src="/images/services-details/services-details-11.jpg"
@@ -139,56 +134,43 @@ const ProductsDetailsContent = () => {
                 />
               </div>
               <p style={{ marginTop: 20 }}>
-                Web development is a critical service provided our company ,
-                involving the creation, design, and maintenance of websites. It
-                encompasses various tasks such as front-end development,
-                back-end development, database integration, and server
-                configuration. Web developers utilize programming languages like
-                HTML, CSS, and JavaScript to build visually appealing and
-                interactive websites that are optimized for performance, user
-                experience, and search engine visibility.
+              The Prism Gate application represents a cutting-edge solution designed to revolutionize 
+              access control and security management for organizations of all sizes. Leveraging the 
+              power of technology.
               </p>
               <p>
-                They collaborate with clients to understand their requirements,
-                ensuring the website aligns with their brand image and goals.
-                Additionally, web developers implement responsive design
-                techniques to ensure compatibility across different devices,
-                ensuring a seamless experience for users. Regular updates and
-                maintenance are also performed to ensure the website remains
-                secure and up-to-date with the latest technologies.
+              This comprehensive system has emerged as a pivotal tool for 
+              enhancing safety, convenience, and efficiency in a variety of environments. In this 
+              detailed note, we will explore the key features, benefits, and applications of the 
+              Prism Gate application..
               </p>
               <ul className="list">
                 <li>
-                  <h4>What You Will Get Under This Service</h4>
+                  <h4>What You Will Get Under This Product</h4>
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i>We provide tailored
-                  web development services, creating websites that align with
-                  your specific business needs, brand identity, and objectives.
+                  <i className="ri-checkbox-circle-line"></i>The Prism Gate application serves as a robust access 
+                  control system that enables organizations to manage who enters and exits their premises 
+                  efficiently.
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> Our team focuses
-                  on creating responsive websites that adapt seamlessly to
-                  different screen sizes and devices, ensuring optimal user
-                  experience across platforms
+                  <i className="ri-checkbox-circle-line"></i> A central feature of the application is its QR code 
+                  integration. Users are provided with unique QR codes, which are used for entry and exit.
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> We prioritize
-                  intuitive and user-friendly interfaces, making it easy for
-                  visitors to navigate your website, find information, and
-                  engage with your content or services.
+                  <i className="ri-checkbox-circle-line"></i> The application facilitates the streamlined management of 
+                  visitors. Visitors can pre-register, allowing hosts to approve or reject their entry requests
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> Our websites are
-                  built with scalability in mind, allowing them to accommodate
-                  growing traffic and functionality requirements as your
-                  business expands.
+                  <i className="ri-checkbox-circle-line"></i> Prism Gate doubles as an employee management tool, 
+                  allowing organizations to maintain comprehensive records of their workforce
+                  
                 </li>
                 <li>
-                  <i className="ri-checkbox-circle-line"></i> We optimize your
-                  website's structure, content, and metadata to improve its
-                  visibility in search engine rankings, driving organic traffic
-                  and potential customers to your site.
+                  <i className="ri-checkbox-circle-line"></i> it offers organizations a powerful tool to enhance security, 
+                  streamline operations, and adapt to evolving health and safety concerns. Whether in corporate offices, 
+                  educational institutions, healthcare facilities, manufacturing plants, or government buildings, 
+                  Prism Gate is poised to make a significant impact on access control and security in the modern world
                 </li>
               </ul>
             </div>
@@ -260,7 +242,7 @@ const ProductsDetailsContent = () => {
         <div className="container">
           <div className="services-details-desc">
             <div className="article-services-content">
-              <h3>Software Development</h3>
+              <h3>Prism Scanner</h3>
               <div className="article-services-image">
                 <img
                   className={styles.customServiceSoftwareImage}

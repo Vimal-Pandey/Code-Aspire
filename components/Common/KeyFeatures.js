@@ -13,7 +13,7 @@ const KeyFeatures = () => {
             </h2>
             <p>
               We are leading technology solutions providing company all over the
-              world doing over 40 years lorem ipsum dolor sit amet.
+              world.
             </p>
           </div>
 
@@ -36,12 +36,12 @@ const KeyFeatures = () => {
                 <div className="choose-content">
                   <h3>
                     <Link href="/services/service-details">
-                      <a>Mobile Apps</a>
+                      <a>Data and Analytics</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet conset sadipscing elitr sed diam
-                    nonumy eirm od tempor invidunt ut labore.
+                  The app can provide valuable data and insights for better decision-making and 
+                  long-term planning.
                   </p>
                 </div>
               </div>
@@ -65,12 +65,12 @@ const KeyFeatures = () => {
                 <div className="choose-content">
                   <h3>
                     <Link href="/services/service-details">
-                      <a>Branding Strategy</a>
+                      <a>Visitor Management</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet conset sadipscing elitr sed diam
-                    nonumy eirm od tempor invidunt ut labore.
+                  Guest registration and tracking for enhanced security.
+                  Access control features for visitors and service personnel
                   </p>
                 </div>
               </div>
@@ -94,12 +94,11 @@ const KeyFeatures = () => {
                 <div className="choose-content">
                   <h3>
                     <Link href="/services/service-details">
-                      <a>Graphic Design</a>
+                      <a>Security</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet conset sadipscing elitr sed diam
-                    nonumy eirm od tempor invidunt ut labore.
+                  Secure login and data encryption for privacy and data protection.
                   </p>
                 </div>
               </div>
@@ -123,12 +122,11 @@ const KeyFeatures = () => {
                 <div className="choose-content">
                   <h3>
                     <Link href="/services/service-details">
-                      <a>Search Optimization</a>
+                      <a>Green Initiatives</a>
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet conset sadipscing elitr sed diam
-                    nonumy eirm od tempor invidunt ut labore.
+                  Paperless communication and transactions to reduce environmental impact.
                   </p>
                 </div>
               </div>
