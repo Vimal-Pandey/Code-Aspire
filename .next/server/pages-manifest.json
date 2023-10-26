@@ -2,5 +2,21 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/services/service-details": "pages/services/service-details.js"
+  "/404": "pages/404.html",
+  "/about": "pages/about.html",
+  "/api/contact": "pages/api/contact.js",
+  "/api/hello": "pages/api/hello.js",
+  "/coming-soon": "pages/coming-soon.html",
+  "/contact": "pages/contact.html",
+  "/faq": "pages/faq.html",
+  "/": "pages/index.html",
+  "/products": "pages/products.html",
+  "/products/product": "pages/products/product.html",
+  "/products/products-details": "pages/products/products-details.html",
+  "/products/products-2": "pages/products/products-2.html",
+  "/services": "pages/services.html",
+  "/services/service-details": "pages/services/service-details.html",
+  "/services/services-2": "pages/services/services-2.html",
+  "/services/services": "pages/services/services.html",
+  "/terms-of-service": "pages/terms-of-service.html"
 }
