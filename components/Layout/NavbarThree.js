@@ -252,15 +252,15 @@ const NavbarThree = () => {
                     <i className="ri-facebook-fill"></i>
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
-                    href="https://www.twitter.com/"
+                    href="https://twitter.com/Code_Aspire"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="ri-twitter-fill"></i>
                   </a>
-                </li> */}
+                </li>
                 <li>
                   <a
                     href="https://www.linkedin.com/company/codeaspire-consultancy-services/"
@@ -270,15 +270,15 @@ const NavbarThree = () => {
                     <i className="ri-linkedin-fill"></i>
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
-                    href="https://www.instagram.com/"
+                    href="https://instagram.com/code_aspire?igshid=YTQwZjQ0NmI0OA=="
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="ri-instagram-fill"></i>
                   </a>
-                </li> */}
+                </li>
               </ul>
             </div>
           </div>
