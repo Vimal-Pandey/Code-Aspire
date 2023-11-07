@@ -1,0 +1,28 @@
+.container {
+  margin-top: 100px;
+  background: url("../public/images/backgroundImg.jpg") center / cover no-repeat
+    fixed;
+  height: 550vh;
+  padding: 20px 40px;
+  overflow: hidden;
+}
+
+.container_body_box{
+  position:relative;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 5px 10px;
+    height: 1010vh;
+  }
+
+  .container_body_box {
+    margin: 20px 0px;
+    height: 360px;
+  }
+
+  .arrange_box {
+    align-items: center;
+  }
+}

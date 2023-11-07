@@ -24,7 +24,59 @@ const AllProductsCardStyle2 = () => {
                   <Link href="/products/products-details">
                     <a>
                       {/* <img src="/images/services/services-2.jpg" alt="image" /> */}
-                      <img src="/images/products/prism office.jpg" alt="image" />
+                      <img src="/images/products/prismGATE.png" alt="image" />
+                    </a>
+                  </Link>
+                </div>
+                <div className="services-content">
+                  <h3>
+                    <Link href="/products/products-details">
+                      <a>Prism Gate</a>
+                    </Link>
+                  </h3>
+                  <p>
+                  The security measures and access control protocols implemented within Prism Gate, our society registration application, are essential for safeguarding your organization's premises.
+                  
+                  </p>
+                  <Link href="/products/PrismGateDetailsContent">
+                    <a className="services-btn">View More</a>
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6">
+              <div className="services-item">
+                <div className="services-image">
+                  <Link href="/products/products-details">
+                    <a>
+                      <img src="/images/products/prismSFA.png" alt="image" />
+                    </a>
+                  </Link>
+                </div>
+                <div className="services-content">
+                  <h3>
+                    <Link href="/products/products-details">
+                      <a>Prism SFA</a>
+                    </Link>
+                  </h3>
+                  <p>
+                  The scanner policy for the Prism Gate application is a critical component of 
+                  ensuring security and access control within your organization's premises.
+                  </p>
+                  <Link href="/products/PrismSFADetailsContent">
+                    <a className="services-btn">View More</a>
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6">
+              <div className="services-item">
+                <div className="services-image" >
+                  <Link href="/products/products-details">
+                    <a>
+                      <img src="/images/products/prismOFFICE.png" alt="image" />
                     </a>
                   </Link>
                 </div>
@@ -37,60 +89,9 @@ const AllProductsCardStyle2 = () => {
                   <p>
                   The Prism Office Employee Management, Visitor QR Code, and Attendance System is an 
                   integrated solution designed to streamline office operations and enhance security.
+                  
                   </p>
-                  <Link href="/products/products-details">
-                    <a className="services-btn">View More</a>
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6">
-              <div className="services-item">
-                <div className="services-image">
-                  <Link href="/products/products-details">
-                    <a>
-                      <img src="/images/products/prism gate.jpg" alt="image" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="services-content">
-                  <h3>
-                    <Link href="/products/products-details">
-                      <a>Prism Gate</a>
-                    </Link>
-                  </h3>
-                  <p>
-                  The scanner policy for the Prism Gate application is a critical component of 
-                  ensuring security and access control within your organization's premises..
-                  </p>
-                  <Link href="/products/products-details">
-                    <a className="services-btn">View More</a>
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6">
-              <div className="services-item">
-                <div className="services-image">
-                  <Link href="/products/products-details">
-                    <a>
-                      <img src="/images/products/prism scanner.jpg" alt="image" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="services-content">
-                  <h3>
-                    <Link href="/products/products-details">
-                      <a>Prism Scanner</a>
-                    </Link>
-                  </h3>
-                  <p>
-                  The scanner policy for the Prism Gate application is a critical component of 
-                  ensuring security and access control within your organization's premises.
-                  </p>
-                  <Link href="/products/products-details">
+                  <Link href="/products/PrismOfficeDetailsContent">
                     <a className="services-btn">View More</a>
                   </Link>
                 </div>
