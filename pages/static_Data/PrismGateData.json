@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Domestic Staff Management",
-    "imageSrc": "/Clipart/1.png",
+    "imageSrc": "/images/Clipart/1.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Specify each employee's duties and responsibilities. Make sure they know what is anticipated of them. Establish and distribute precise work schedules. Keep tabs on their presence."
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Maintenance and Utility Bill Payments",
-    "imageSrc": "/Clipart/2.png",
+    "imageSrc": "/images/Clipart/2.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Select your favorite way of receiving money. This could be accomplished by using a specialized bill payment service, financial management software, mobile banking, or internet banking."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Communication management",
-    "imageSrc": "/Clipart/3.png",
+    "imageSrc": "/images/Clipart/3.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Establish discussion boards where locals may converse about issues pertaining to the community, exchange information, and pose questions. Ensure that these discussion boards are moderated to ensure a civil and productive atmosphere."
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Managing Safety and Security",
-    "imageSrc": "/Clipart/4.png",
+    "imageSrc": "/images/Clipart/4.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Identification and evaluation of potential risks and hazards in a given environment or operation is the first step in safety management. This entails being aware of both current and possible hazards. We have the SOS feature."
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "Managing Customer Feedback Effectively",
-    "imageSrc": "/Clipart/5.png",
+    "imageSrc": "/images/Clipart/5.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Simplified complaint procedures increase client happiness and trust. We provide recommendations for a customer-focused system that enhances tracking, submissions, and brand loyalty in the cutthroat commercial world."
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "Accounts & Billing Solution",
-    "imageSrc": "/Clipart/6.png",
+    "imageSrc": "/images/Clipart/6.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Maintain accurate financial records, including income, expenses, and transactions. This involves recording all financial activities and ensuring that they align with the budget."
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title": "Maintenance & Utility Bill Payments",
-    "imageSrc": "/Clipart/7.png",
+    "imageSrc": "/images/Clipart/7.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Automate invoice creation for maintenance and utilities using software. Input billing details and ensure clear information on due dates, payment methods, amount due, and a breakdown of charges."
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "title": "Residents & Apartments Management",
-    "imageSrc": "/Clipart/8.png",
+    "imageSrc": "/images/Clipart/8.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Assign each resident to their respective apartment or unit. Ensure that the allocation is up to date and reflects the current occupancy status."
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "title": "Complaint Management and Security",
-    "imageSrc": "/Clipart/9.png",
+    "imageSrc": "/images/Clipart/9.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Consider using property management software or a customer relationship management (CRM) system to streamline the issue tracking process, automate notifications, and manage communication more efficiently."
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "title": "Digitized Communications",
-    "imageSrc": "/Clipart/10.png",
+    "imageSrc": "/images/Clipart/10.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Promptly acknowledge the issue, using automated or personal responses, to reassure residents. Keep them updated on issue status and expected resolution times for effective communication."
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "title": "Manage Staff and Vendors",
-    "imageSrc": "/Clipart/11.png",
+    "imageSrc": "/images/Clipart/11.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Clearly define job roles, expectations, and performance standards for each staff member and Vendor. Communicate company values, mission, and goals to create a shared sense of purpose."
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "title": "Visitor Management System",
-    "imageSrc": "/Clipart/12.png",
+    "imageSrc": "/images/Clipart/12.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "A Visitor Management System (VMS) is a software application or system designed to efficiently and securely manage the entry and exit of visitors to a facility or premises using QR code enabled which helps to hassle-free authorize access."
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "title": "Services and Staff Monitoring",
-    "imageSrc": "/Clipart/13.png",
+    "imageSrc": "/images/Clipart/13.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Effective monitoring is vital for efficiency, compliance, and resource management. It offers insights, optimizes resource allocation, and ensures standards compliance. Robust monitoring is key to organizational success."
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "title": "User-friendly and Intuitive Guard App",
-    "imageSrc": "/Clipart/14.png",
+    "imageSrc": "/images/Clipart/14.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Creating a user-friendly and intuitive guard app is essential for security personnel to efficiently manage their responsibilities. This app is designed to keep things simple so that guards can use it efficiently."
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "title": "Facility Services Oversight",
-    "imageSrc": "/Clipart/15.png",
+    "imageSrc": "/images/Clipart/15.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "Amenities management involves the efficient and effective operation, maintenance, and enhancement of amenities within a property or facility. Here's a guide to amenities management."
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "title": "Administration Application Access",
-    "imageSrc": "/Clipart/16.png",
+    "imageSrc": "/images/Clipart/16.png",
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "An admin app, short for administrative application, streamlines tasks like scheduling, document management, and data analysis for efficient operations. It's a vital tool for modern organizations."

@@ -23,7 +23,7 @@ const AllProductsCard = () => {
                 <div className="services-image">
                   <Link href="/Products/products-details">
                     <a>
-                      <img src="/images/products/prism gate.jpg" alt="image" />
+                      <img src="/images/products/prismGATE.png" alt="image" />
                     </a>
                   </Link>
                 </div>
@@ -31,14 +31,14 @@ const AllProductsCard = () => {
                   <h3>
                     <Link href="/products/products-details">
                       {/* <a>Database Administrator</a> */}
-                      <a>Prism Gate</a>
+                      <a>Prism Pate</a>
                     </Link>
                   </h3>
                   <p>
                   Prism Gate by Code Aspire is more than just an app, it's a commitment to enhancing the 
                   quality of life within your community.
                   </p>
-                  <Link href="/products/products-details">
+                  <Link href="./PrismGateDetailsContent.js">
                     <a className="services-btn">View More</a>
                   </Link>
                 </div>
@@ -50,7 +50,7 @@ const AllProductsCard = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/products/prism office.jpg" alt="image" />
+                      <img src="/images/products/prismSFA.png" alt="image" />
                     </a>
                   </Link>
                 </div>
@@ -58,14 +58,14 @@ const AllProductsCard = () => {
                   <h3>
                     <Link href="/products/products-details">
                       {/* <a>Software Development</a> */}
-                      <a>Prism Office</a>
+                      <a>Prism SFA</a>
                     </Link>
                   </h3>
                   <p>
-                  Prism Office by the Code Aspire is the ultimate solution to simplify your workplace operations, 
-                  enhance security.
+                  Discover the power of Prism Scanner by Code Aspire and transform the way you manage 
+                  attendance and access control.
                   </p>
-                  <Link href="/products/products-details">
+                  <Link href="/components/Products/PrismSFADetailsContent.js">
                     <a className="services-btn">View More</a>
                   </Link>
                 </div>
@@ -77,7 +77,7 @@ const AllProductsCard = () => {
                 <div className="services-image">
                   <Link href="/products/products-details">
                     <a>
-                      <img src="/images/products/prism scanner.jpg" alt="image" />
+                      <img src="/images/products/prismOffice.png" alt="image" />
                     </a>
                   </Link>
                 </div>
@@ -85,14 +85,14 @@ const AllProductsCard = () => {
                   <h3>
                     <Link href="/products/products-details">
                       {/* <a>App Development</a> */}
-                      <a>Prism Scanner</a>
+                      <a>Prism Office</a>
                     </Link>
                   </h3>
                   <p>
-                  Discover the power of Prism Scanner by Code Aspire and transform the way you manage 
-                  attendance and access control.
+                  Prism Office by the Code Aspire is the ultimate solution to simplify your workplace operations, 
+                  enhance security.
                   </p>
-                  <Link href="/products/products-details">
+                  <Link href="/components/Products/PrismOfficeDetailsContent.js">
                     <a className="services-btn">View More</a>
                   </Link>
                 </div>

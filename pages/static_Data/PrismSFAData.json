@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Tour Planning",
-      "imageSrc": "/Clipart/1.png",
+      "imageSrc": "/images/Clipart/1.png",
       "imageHeight": 220,
       "imageWidth": 300,
       "description": "Tour planning involves the process of organizing and preparing for a trip or journey to a specific destination. Whether you're planning a vacation, business trip, or any other type of excursion, careful planning can make your travel experience more enjoyable and less stressful"
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "title": "Daily Call Reports",
-      "imageSrc": "/Clipart/5.png",
+      "imageSrc": "/images/Clipart/5.png",
       "imageHeight": 230,
       "imageWidth": 300,
       "description": "Daily Call Reports are documents or records used by salespeople, customer support representatives, or professionals who engage in regular phone conversations with clients, prospects, or colleagues. These reports help individuals and organizations keep track of their communications."
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "title": "Expenses Reporting & Management",
-      "imageSrc": "/Clipart/3.png",
+      "imageSrc": "/images/Clipart/3.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Expense reporting and management is a crucial aspect of personal finance, business, and organizational operations. Effective expense management helps individuals and businesses monitor spending, control costs, and make informed financial decisions."
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "title": "Secondary Sales",
-      "imageSrc": "/Clipart/4.png",
+      "imageSrc": "/images/Clipart/4.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Secondary sales, also known as downstream sales, refer to the resale of products by retailers, wholesalers, or other intermediaries to end customers or consumers. These sales occur after the initial or primary sale from the manufacturer or producer to the distributor or retailer."
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "title": "Campaigns",
-      "imageSrc": "/Clipart/2.png",
+      "imageSrc": "/images/Clipart/2.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Campaigns refer to organized and purposeful efforts, often marketing or political in nature, aimed at achieving specific goals or objectives. Campaigns are typically designed to promote a product, service, idea, candidate, or cause and involve a series of coordinated actions and strategies."
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "title": "HRMS Leaves & Appraisals",
-      "imageSrc": "/Clipart/6.png",
+      "imageSrc": "/images/Clipart/6.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Human Resource Management System (HRMS) is a software application that centralizes and automates various HR functions, including leave management and performance appraisals."
@@ -50,7 +50,7 @@
     {
       "id": 7,
       "title": "Product & Promotions",
-      "imageSrc": "/Clipart/7.png",
+      "imageSrc": "/images/Clipart/7.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Product and promotions are vital components of a marketing strategy, working together to raise awareness. A product fulfills customer needs, while promotions encompass marketing strategies that create awareness and promote a product or service."
@@ -58,7 +58,7 @@
     {
       "id": 8,
       "title": "MIS Reports",
-      "imageSrc": "/Clipart/8.png",
+      "imageSrc": "/images/Clipart/8.png",
       "imageHeight": 200,
       "imageWidth": 300,
       "description": "MIS (Management Information System) reports are structured documents or data summaries that provide information, analysis, and insights to support decision-making within an organization. MIS reports are crucial for monitoring, analyzing, and managing various aspects of a business."
@@ -66,7 +66,7 @@
     {
       "id": 9,
       "title": "Geotagging",
-      "imageSrc": "/Clipart/9.png",
+      "imageSrc": "/images/Clipart/9.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Geotagging adds location data such as latitude and longitude to media like photos, videos, and text, indicating their origin. It's common in modern devices, including smartphones which use built-in GPS or other location technologies like Wi-Fi and cellular triangulation for precise geotagging."
@@ -74,7 +74,7 @@
     {
       "id": 10,
       "title": "Integrations API Based",
-      "imageSrc": "/Clipart/10.png",
+      "imageSrc": "/images/Clipart/10.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "API-based integrations refer to the process of connecting two or more software applications or systems using Application Programming Interfaces - APIs. An API is a set of rules and protocols that allows different software applications to communicate with each other."
@@ -82,7 +82,7 @@
     {
       "id": 11,
       "title": "Master Data Management",
-      "imageSrc": "/Clipart/11.png",
+      "imageSrc": "/images/Clipart/11.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Master Data Management - MDM is a comprehensive method of managing and organizing an organization's critical data assets to provide, with data integration, an enhanced, single point of reference. These data elements are shared across multiple systems and applications and serve as a primary source of truth."
@@ -90,7 +90,7 @@
     {
       "id": 12,
       "title": "Quiz - Learning Module",
-      "imageSrc": "/Clipart/12.png",
+      "imageSrc": "/images/Clipart/12.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "A quiz learning module involves designing and structuring quizzes to assess and reinforce the knowledge or skills of learners. This module can be used in various educational and training contexts to engage learners, test their understanding, and promote interactive learning."
@@ -98,7 +98,7 @@
     {
       "id": 13,
       "title": "Internal Communication",
-      "imageSrc": "/Clipart/13.png",
+      "imageSrc": "/images/Clipart/13.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Internal communication involves sharing information and ideas within an organization, enhancing collaboration and productivity. It engages employees, involving them in decision-making and valuing their input, creating a more effective and cooperative work environment."
@@ -106,7 +106,7 @@
     {
       "id": 14,
       "title": "Product Order Booking - POB",
-      "imageSrc": "/Clipart/14.png",
+      "imageSrc": "/images/Clipart/14.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Product Order Booking (POB) is the system for recording and managing customer orders, playing a vital role in sales and inventory management. It enables businesses to efficiently track and fulfill orders while maintaining precise sales transaction records."
@@ -114,7 +114,7 @@
     {
       "id": 15,
       "title": "E-detailing",
-      "imageSrc": "/Clipart/15.png",
+      "imageSrc": "/images/Clipart/15.png",
       "imageHeight": 200,
       "imageWidth": 290,
       "description": "E-detailing, or electronic detailing, is a digital strategy in pharmaceutical sales and marketing that employs technology, often through multimedia presentations and interactive platforms, to engage healthcare professionals and furnish them with information regarding pharmaceutical products and services."
@@ -122,7 +122,7 @@
     {
       "id": 16,
       "title": "RCPA - Retail Chemist Prescription Audit",
-      "imageSrc": "/Clipart/16.png",
+      "imageSrc": "/images/Clipart/16.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Retail chemist prescription audit involves the evaluation of prescriptions and medication dispensing in retail pharmacy or chemist environments. It aims to verify the safe and accurate dispensing of medications while ensuring compliance with legal and regulatory standards."
@@ -130,7 +130,7 @@
     {
       "id": 17,
       "title": "Doctor Business and Stockist Business",
-      "imageSrc": "/Clipart/1.png",
+      "imageSrc": "/images/Clipart/1.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Doctor business usually refers to the practice of medicine by a healthcare professional, such as a medical doctor - MD or doctor of osteopathic medicine - DO. Stockist business typically refers to the distribution and sale of pharmaceuticals, medical supplies, and healthcare products."
@@ -138,7 +138,7 @@
     {
       "id": 18,
       "title": "Doctor Birthday and Anniversary alerts",
-      "imageSrc": "/Clipart/2.png",
+      "imageSrc": "/images/Clipart/2.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Doctor Birthday and Anniversary alerts are an important part of building and maintaining relationships with healthcare professionals. They help in acknowledging and celebrating special occasions for doctors."
@@ -146,7 +146,7 @@
     {
       "id": 19,
       "title": "Payroll Integrated with MR Reporting",
-      "imageSrc": "/Clipart/3.png",
+      "imageSrc": "/images/Clipart/3.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Payroll integrated with Management Reporting (MR) is a system merging payroll processing and reporting in business settings. This integration optimizes the handling of employee compensation and financial reporting, enhancing efficiency and accuracy."
@@ -154,7 +154,7 @@
     {
       "id": 20,
       "title": "Informative Dashboard",
-      "imageSrc": "/Clipart/4.png",
+      "imageSrc": "/images/Clipart/4.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "An informative dashboard is a data visualization tool that presents key information, metrics, and insights in a visually concise and easily understandable manner. Dashboards focus on key performance indicators - KPIs and essential metrics that are relevant to the user's goals or objectives."
@@ -162,7 +162,7 @@
     {
       "id": 21,
       "title": "Graphical Reports",
-      "imageSrc": "/Clipart/5.png",
+      "imageSrc": "/images/Clipart/5.png",
       "imageHeight": 250,
       "imageWidth": 300,
       "description": "Graphical reports, also known as visual reports, are documents or presentations that use visual elements, such as charts, graphs, diagrams, and images, to convey information, data, and insights to the audience."

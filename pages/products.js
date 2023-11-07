@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
-// import AllServicesCardStyle2 from "@/components/Services/AllServicesCardStyle2";
 import ContactForm from "@/components/Common/ContactForm";
 import AllProductsCardStyle2 from "@/components/Products/AllProductsCardStyle2";
 import Footer from "@/components/Layout/Footer";
