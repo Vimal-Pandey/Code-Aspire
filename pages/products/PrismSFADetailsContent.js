@@ -1,11 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
-// import ServicesDetailsContent from "@/components/Services/ServicesDetailsContent";
-// import PrismGateDetailsContent from "@/components/Products/PrismGateDetailsContent";
 import PrismSFADetailsContent from "@/components/Products/PrismSFADetailsContent";
 import ContactForm from "@/components/Common/ContactForm";
-import ServiceSlider from "@/components/Services/ServiceSlider";
 import CTO from "@/components/Common/CTO";
 import Footer from "@/components/Layout/Footer";
 
@@ -38,9 +35,6 @@ export default function ProductDetails() {
           </div>
         </div>
       </div>
-
-      {/* <ServicesDetailsContent /> */}
-      {/* <PrismGateDetailsContent/> */}
       <PrismSFADetailsContent/>
       <ContactForm />
       <CTO />

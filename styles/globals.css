@@ -9356,3 +9356,103 @@ Buy Now Btn
   color: #fff;
 }
 /*# sourceMappingURL=globals.css.map */
+
+
+/* CSS Added for Products */
+
+
+.head{
+  font-size: 1.5rem;
+  gap: 2rem;
+  width: 85%;
+  border-bottom: 2px solid #dadadd;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.title{
+  cursor: pointer;
+  padding: 10px 5px;
+}
+
+.container_body{
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  overflow: hidden;
+}
+
+.container_body_box{
+  width: 47%;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  height: 310px;
+  flex-direction: column;
+  border: 1px solid rgba(255, 255, 255, .25);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(15px);
+}
+
+.arrange_box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.container_body_box h1{
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgb(63, 0, 134);
+  max-width: 400px;
+  max-height: 70px;
+  padding: 5px 10px;
+}
+
+.container_body_box p{
+  color: #333;
+  max-width:350px ;
+  line-height: 1.4;
+  font-size: 1.1rem;
+  font-weight: 600;
+  position: absolute;
+  top: 95px;
+} 
+
+
+@media only screen and (max-width: 600px) {
+    
+  .head{
+      text-align: center;
+      font-size: 1.4rem;
+  }
+
+  .container{
+    margin-top: 0px;
+}
+
+.container_body_box{
+  width: 100%;
+}
+
+.container_body_box p{
+  line-height: 1.4;
+  font-size: 1rem;
+  top: 150px;
+  max-width:320px ;
+} 
+
+}
+
+.Heading{
+    font-size:3rem;
+    text-align: center;
+    padding: 30px;
+    background-color: Red;
+    color: White;
+}
