@@ -71,7 +71,7 @@ function selectthree () {
  
           
       <div id='one' style={{visibility:`${info.headOne}`}} className={`${styles.container_body} container_body`}>
-        {data.slice(0,5).map((item) => (
+        {data.slice(0,6).map((item) => (
           <ContainerBodyBox
             key={item.id}
             title={item.title}
@@ -84,7 +84,7 @@ function selectthree () {
       </div>
 
       <div id='two' style={{visibility:`${info.headTwo}`}} className={`${styles.container_body} container_body`}>
-      {data.slice(5, 11).map((item) => (
+      {data.slice(6, 12).map((item) => (
           <ContainerBodyBox
             key={item.id}
             title={item.title}
@@ -97,7 +97,7 @@ function selectthree () {
       </div>
 
       <div id='three' style={{visibility:`${info.headThree}`}} className={`${styles.container_body} container_body`}>
-      {data.slice(11).map((item) => (
+      {data.slice(12).map((item) => (
           <ContainerBodyBox
             key={item.id}
             title={item.title}
@@ -110,6 +110,7 @@ function selectthree () {
       </div>
 
     </div>
+    
   )
 
 }

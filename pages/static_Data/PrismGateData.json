@@ -126,5 +126,22 @@
     "imageHeight": 250,
     "imageWidth": 300,
     "description": "An admin app, short for administrative application, streamlines tasks like scheduling, document management, and data analysis for efficient operations. It's a vital tool for modern organizations."
+  },
+  {
+    "id": 17,
+    "title": "Graphical Reports",
+    "imageSrc": "/images/Clipart/5.png",
+    "imageHeight": 250,
+    "imageWidth": 300,
+    "description": "Graphical reports, also known as visual reports, are documents or presentations that use visual elements, such as charts, graphs, diagrams, and images, to convey information, data, and insights to the audience."
+  },
+  {
+    "id": 18,
+    "title": "Complaint Management and Security",
+    "imageSrc": "/images/Clipart/9.png",
+    "imageHeight": 250,
+    "imageWidth": 300,
+    "description": "Consider using property management software or a customer relationship management (CRM) system to streamline the issue tracking process, automate notifications, and manage communication more efficiently."
   }
+  
 ]

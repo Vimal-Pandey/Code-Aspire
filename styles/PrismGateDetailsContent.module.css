@@ -20,17 +20,17 @@
    
    .title:hover::after{
        visibility: visible;
-       width: 200px;
+       width: 20vw;
    }
    
    .head_1::after{
-       left: 270px;
+       left: 17.5vw;
    }
    .head_2::after{
-       left: 623px;
+       left: 40.5vw;
    }
    .head_3::after{
-       left: 953px;
+       left: 62vw;
    }
    
    .container_body_box h1{
@@ -46,13 +46,13 @@
        }
    
        .title::after{
-           margin-top: 35px;    
+           visibility: hidden;   
        }
-       
        .title:hover::after{
-           visibility: visible;
-           width: 200px;
-       }
+        visibility: hidden;
+    }
+       
+      
        
        .head_1::after, .head_2::after, .head_3::after{
            left: 100px;
@@ -65,7 +65,7 @@
    
        .container_body_box{
            margin: 20px 10px;
-       
+           position: absolute;
        }
        
        .container_body{

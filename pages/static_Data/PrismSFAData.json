@@ -13,7 +13,7 @@
       "imageSrc": "/images/Clipart/5.png",
       "imageHeight": 230,
       "imageWidth": 300,
-      "description": "Daily Call Reports are documents or records used by salespeople, customer support representatives, or professionals who engage in regular phone conversations with clients, prospects, or colleagues. These reports help individuals and organizations keep track of their communications."
+      "description": "Daily Call Reports are documents or records used by salespeople, customer support representatives, or professionals who engage in regular phone conversations with clients, prospects, or colleagues. These reports help individuals and organizations keep tracks."
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "imageSrc": "/images/Clipart/4.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "Secondary sales, also known as downstream sales, refer to the resale of products by retailers, wholesalers, or other intermediaries to end customers or consumers. These sales occur after the initial or primary sale from the manufacturer or producer to the distributor or retailer."
+      "description": "Secondary sales, also known as downstream sales, refer to the resale of products by retailers, wholesalers, or other intermediaries to end customers or consumers. These sales occur after the initial sale from the manufacturer to the distributor."
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "imageSrc": "/images/Clipart/2.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "Campaigns refer to organized and purposeful efforts, often marketing or political in nature, aimed at achieving specific goals or objectives. Campaigns are typically designed to promote a product, service, idea, candidate, or cause and involve a series of coordinated actions and strategies."
+      "description": "Campaigns refer to organized and purposeful efforts, often marketing or political in nature, aimed at achieving specific goals or objectives. Campaigns are typically designed to promote a product, service, idea, or cause and involve a series of coordinated actions and strategies."
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
       "imageSrc": "/images/Clipart/9.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "Geotagging adds location data such as latitude and longitude to media like photos, videos, and text, indicating their origin. It's common in modern devices, including smartphones which use built-in GPS or other location technologies like Wi-Fi and cellular triangulation for precise geotagging."
+      "description": "Geotagging adds location data such as latitude and longitude to media like photos, videos, and text, indicating their origin. It's common in modern devices, including smartphones which use built-in GPS or other location technologies for precise geotagging."
     },
     {
       "id": 10,
@@ -85,7 +85,7 @@
       "imageSrc": "/images/Clipart/11.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "Master Data Management - MDM is a comprehensive method of managing and organizing an organization's critical data assets to provide, with data integration, an enhanced, single point of reference. These data elements are shared across multiple systems and applications and serve as a primary source of truth."
+      "description": "Master Data Management - MDM is a comprehensive method of managing and organizing an organization's critical data assets to provide, with data integration, an enhanced, single point of reference. These data elements are shared across multiple systems to serve a primary source of truth."
     },
     {
       "id": 12,
@@ -93,7 +93,7 @@
       "imageSrc": "/images/Clipart/12.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "A quiz learning module involves designing and structuring quizzes to assess and reinforce the knowledge or skills of learners. This module can be used in various educational and training contexts to engage learners, test their understanding, and promote interactive learning."
+      "description": "A quiz learning module involves designing and structuring quizzes to assess and reinforce the knowledge of learners. This module can be used in various educational and training contexts to engage learners, test their understanding, and promote interactive learning."
     },
     {
       "id": 13,
@@ -101,7 +101,7 @@
       "imageSrc": "/images/Clipart/13.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "Internal communication involves sharing information and ideas within an organization, enhancing collaboration and productivity. It engages employees, involving them in decision-making and valuing their input, creating a more effective and cooperative work environment."
+      "description": "Internal communication involves sharing information, ideas within an organization, enhancing collaboration and productivity. It engages employees, involving them in decision-making and valuing their input, creating a more effective and cooperative work environment."
     },
     {
       "id": 14,
@@ -117,7 +117,7 @@
       "imageSrc": "/images/Clipart/15.png",
       "imageHeight": 200,
       "imageWidth": 290,
-      "description": "E-detailing, or electronic detailing, is a digital strategy in pharmaceutical sales and marketing that employs technology, often through multimedia presentations and interactive platforms, to engage healthcare professionals and furnish them with information regarding pharmaceutical products and services."
+      "description": "E-detailing, or electronic detailing, is a digital strategy in pharmaceutical sales and marketing. It uses technology, often through multimedia presentations and interactive platforms, to engage healthcare professionals and provide information about pharmaceutical products."
     },
     {
       "id": 16,
@@ -157,15 +157,7 @@
       "imageSrc": "/images/Clipart/4.png",
       "imageHeight": 250,
       "imageWidth": 300,
-      "description": "An informative dashboard is a data visualization tool that presents key information, metrics, and insights in a visually concise and easily understandable manner. Dashboards focus on key performance indicators - KPIs and essential metrics that are relevant to the user's goals or objectives."
-    },
-    {
-      "id": 21,
-      "title": "Graphical Reports",
-      "imageSrc": "/images/Clipart/5.png",
-      "imageHeight": 250,
-      "imageWidth": 300,
-      "description": "Graphical reports, also known as visual reports, are documents or presentations that use visual elements, such as charts, graphs, diagrams, and images, to convey information, data, and insights to the audience."
+      "description": "An informative dashboard is a data visualization tool presenting key information, metrics, and insights visually. Dashboards focus on essential metrics, key performance indicators (KPIs), and are tailored to the user's goals or objectives."
     }
   ]
 
