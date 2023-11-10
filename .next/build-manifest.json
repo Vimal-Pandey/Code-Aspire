@@ -34,6 +34,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/products/PrismGateDetailsContent.js"
+    ],
+    "/products/PrismOfficeDetailsContent": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/products/PrismOfficeDetailsContent.js"
+    ],
+    "/products/PrismSFADetailsContent": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/products/PrismSFADetailsContent.js"
     ]
   },
   "ampFirstPages": []

@@ -9363,11 +9363,11 @@ Buy Now Btn
 
 .head{
   font-size: 1.5rem;
-  gap: 2rem;
   /* width: 85%; */
   border-bottom: 2px solid #dadadd;
   overflow: hidden;
   width: 100%;
+  gap: 2rem;
   display: flex;
   justify-content: center;
 }

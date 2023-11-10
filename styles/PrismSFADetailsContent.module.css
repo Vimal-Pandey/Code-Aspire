@@ -1,7 +1,7 @@
 .container {
   margin-top: 100px;
   background: url("../public/images/backgroundImg.jpg") center / cover no-repeat fixed;
-  /* height: 530vh; */
+  height: 475vh;
   /* min-height: auto; */
   padding: 20px 40px;
   overflow: hidden;
@@ -14,7 +14,24 @@
 @media only screen and (max-width: 600px) {
   .container {
     padding: 5px 10px;
-    /* height: 960vh; */
+    height: 950vh;
+  }
+
+  .container_body_box {
+    margin: 20px 0px;
+    height: 360px;
+  }
+
+  .arrange_box {
+    align-items: center;
+  }
+}
+
+
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+  .container {
+    padding: 5px 10px;
+    height: 630vh;
   }
 
   .container_body_box {
