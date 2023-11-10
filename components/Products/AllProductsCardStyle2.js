@@ -21,7 +21,7 @@ const AllProductsCardStyle2 = () => {
             <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image">
-                  <Link href="/products/products-details">
+                  <Link href="/products/PrismGateDetailsContent">
                     <a>
                       {/* <img src="/images/services/services-2.jpg" alt="image" /> */}
                       <img src="/images/products/prismGATE.png" alt="image" />
@@ -30,7 +30,7 @@ const AllProductsCardStyle2 = () => {
                 </div>
                 <div className="services-content">
                   <h3>
-                    <Link href="/products/products-details">
+                    <Link href="/products/PrismGateDetailsContent">
                       <a>Prism Gate</a>
                     </Link>
                   </h3>
@@ -48,7 +48,7 @@ const AllProductsCardStyle2 = () => {
             <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image">
-                  <Link href="/products/products-details">
+                  <Link href="/products/PrismSFADetailsContent">
                     <a>
                       <img src="/images/products/prismSFA.png" alt="image" />
                     </a>
@@ -56,7 +56,7 @@ const AllProductsCardStyle2 = () => {
                 </div>
                 <div className="services-content">
                   <h3>
-                    <Link href="/products/products-details">
+                    <Link href="/products/PrismSFADetailsContent">
                       <a>Prism SFA</a>
                     </Link>
                   </h3>
@@ -74,7 +74,7 @@ const AllProductsCardStyle2 = () => {
             <div className="col-lg-4 col-md-6">
               <div className="services-item">
                 <div className="services-image" >
-                  <Link href="/products/products-details">
+                  <Link href="/products/PrismOfficeDetailsContent">
                     <a>
                       <img src="/images/products/prismOFFICE.png" alt="image" />
                     </a>
@@ -82,7 +82,7 @@ const AllProductsCardStyle2 = () => {
                 </div>
                 <div className="services-content">
                   <h3>
-                    <Link href="/products/products-details">
+                    <Link href="/products/PrismOfficeDetailsContent">
                       <a>Prism Office</a>
                     </Link>
                   </h3>

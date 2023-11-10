@@ -11,7 +11,7 @@ function PrismSFADetailsContent() {
         <span className="title head_3" >Visitor Management System</span>
       </div>
 
-      <div id='one' className="container_body">
+      <div className='container_body'>
         {data.map((item) => (
           <ContainerBodyBox
             key={item.id}

@@ -2,8 +2,7 @@ import React from "react";
 import Link from "next/link";
 import NavbarTwo from "@/components/Layout/NavbarTwo";
 import KeyFeatures from "@/components/Common/KeyFeatures";
-// import AllServicesCard from "@/components/Services/AllServicesCard";
-import AllProductsCard from "@/components/Products/AllProductsCard";
+import AllProductsCardStyle2 from "@/components/Products/AllProductsCardStyle2";
 import ContactForm from "@/components/Common/ContactForm";
 import Footer from "@/components/Layout/Footer";
 
@@ -40,7 +39,7 @@ export default function product() {
       <KeyFeatures />
 
       {/* <AllServicesCard /> */}
-      <AllProductsCard/>
+      <AllProductsCardStyle2/>
       <ContactForm />
 
       <Footer />

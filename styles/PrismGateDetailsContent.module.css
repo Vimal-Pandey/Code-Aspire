@@ -1,11 +1,10 @@
 .container{
-    height: 165vh;
+    height: 145vh;
     background: url('../public/images/backgroundImg.jpg') center / cover no-repeat fixed;
     margin-top: 100px;
     padding: 20px 40px;
     overflow: hidden;
    }
-
   
    .title::after{
        content: "";
@@ -13,24 +12,27 @@
        width: 0px;
        height: 3px;
        background-color: rgb(63, 0, 134);
-       margin-top: 45px;
+       margin-top: 10px;
        visibility: hidden;
        transition: all .3s linear;
+       gap: 2rem;
+       display: flex;
+       justify-content: center;
    }
    
    .title:hover::after{
        visibility: visible;
-       width: 200px;
+       width: 10vw;
    }
    
    .head_1::after{
-       left: 270px;
+       left: 17.5vw;
    }
    .head_2::after{
-       left: 623px;
+       left: 40.5vw;
    }
    .head_3::after{
-       left: 953px;
+       left: 62vw;
    }
    
    .container_body_box h1{
@@ -46,17 +48,11 @@
        }
    
        .title::after{
-           margin-top: 35px;    
+           width: 0vw;  
        }
-       
        .title:hover::after{
-           visibility: visible;
-           width: 200px;
-       }
-       
-       .head_1::after, .head_2::after, .head_3::after{
-           left: 100px;
-       }
+           width: 0vw;
+    }
    
        .container{
            height: 310vh;
@@ -65,7 +61,7 @@
    
        .container_body_box{
            margin: 20px 10px;
-       
+           position: absolute;
        }
        
        .container_body{

@@ -6,13 +6,17 @@ import styles_specific from "styles/PrismSFADetailsContent.module.css"
 
 
 function ContainerBodyBox({ title, imageSrc, imageHeight, imageWidth, description }) {
+  function calc(value) {
+    value = (value/80)*100;
+    return value;
+  }
     return (
       <div className={`${styles_specific.container_body_box} container_body_box`}>
         <div className={`${styles_specific.arrange_box} arrange_box`}>
           <h1>{title}</h1>
-          <Image src={imageSrc} height={imageHeight} width={imageWidth} ></Image>
+          <p>{description}</p>
         </div>
-        <p>{description}</p>
+          <Image src={imageSrc} height={calc(imageHeight)} width={calc(imageWidth)} ></Image>
       </div>
     );
   }
