@@ -31,7 +31,7 @@ const AllProductsCard = () => {
                   <h3>
                     <Link href="/products/products-details">
                       {/* <a>Database Administrator</a> */}
-                      <a>Prism Pate</a>
+                      <a>Prism Gate</a>
                     </Link>
                   </h3>
                   <p>

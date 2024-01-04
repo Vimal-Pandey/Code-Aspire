@@ -3,145 +3,108 @@
     "id": 1,
     "title": "Domestic Staff Management",
     "imageSrc": "/images/Clipart/1.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Specify each employee's duties and responsibilities. Make sure they know what is anticipated of them. Establish and distribute precise work schedules. Keep tabs on their presence."
+    "description": "Define each employee's roles and responsibilities, ensuring clarity on expectations. Establish accurate work schedules while monitoring their attendance closely. Clarify anticipated duties to foster an organized and productive work environment."
   },
   {
     "id": 2,
-    "title": "Maintenance and Utility Bill Payments",
+    "title": "Maintenance Payments Utility",
     "imageSrc": "/images/Clipart/2.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Select your favorite way of receiving money. This could be accomplished by using a specialized bill payment service, financial management software, mobile banking, or internet banking."
+    "description": "Choose your preferred method for receiving funds. Opt for specialized bill payment services, financial management software, or utilize the convenience of mobile banking and internet banking. Tailor your approach to seamlessly meet your financial needs."
   },
   {
     "id": 3,
     "title": "Communication management",
     "imageSrc": "/images/Clipart/3.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Establish discussion boards where locals may converse about issues pertaining to the community, exchange information, and pose questions. Ensure that these discussion boards are moderated to ensure a civil and productive atmosphere."
+    "description": "Create discussion boards for community members to address local issues, share information, and ask questions. Implement moderation to maintain a productive environment, fostering positive and meaningful interactions within the community forums."
   },
   {
     "id": 4,
-    "title": "Managing Safety and Security",
+    "title": "Managing Safety Security",
     "imageSrc": "/images/Clipart/4.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Identification and evaluation of potential risks and hazards in a given environment or operation is the first step in safety management. This entails being aware of both current and possible hazards. We have the SOS feature."
+    "description": "Identifying and assessing potential risks and hazards is the initial step in safety management. It involves recognizing current and potential dangers. Our safety management includes the SOS feature, enhancing emergency response and ensuring a secure environment."
   },
   {
     "id": 5,
-    "title": "Managing Customer Feedback Effectively",
+    "title": "Managing Customer Feedback",
     "imageSrc": "/images/Clipart/5.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Simplified complaint procedures increase client happiness and trust. We provide recommendations for a customer-focused system that enhances tracking, submissions, and brand loyalty in the cutthroat commercial world."
+    "description": "Simplified complaint procedures boost client happiness and trust. Our recommendations focus on a customer-centric system, enhancing tracking, submissions, and brand loyalty in the competitive commercial realm, ensuring a positive experience."
   },
   {
     "id": 6,
-    "title": "Accounts & Billing Solution",
+    "title": "Accounts Billing Solution",
     "imageSrc": "/images/Clipart/6.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Maintain accurate financial records, including income, expenses, and transactions. This involves recording all financial activities and ensuring that they align with the budget."
+    "description": "Ensure precision in financial records, covering income, expenses, and transactions. Record all financial activities meticulously, aligning them with the budget. This comprehensive approach guarantees accurate monitoring and adherence to the financial plan."
   },
   {
     "id": 7,
-    "title": "Maintenance & Utility Bill Payments",
+    "title": "Maintenance Payments Utility",
     "imageSrc": "/images/Clipart/7.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Automate invoice creation for maintenance and utilities using software. Input billing details and ensure clear information on due dates, payment methods, amount due, and a breakdown of charges."
+    "description": "Automate maintenance and utilities invoice generation through software. Input billing details for clear information, including due dates, payment methods, amount due, and a breakdown of charges. This efficient process ensures transparency in financial transactions."
   },
   {
     "id": 8,
-    "title": "Residents & Apartments Management",
+    "title": "Residents Apartments Management",
     "imageSrc": "/images/Clipart/8.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Assign each resident to their respective apartment or unit. Ensure that the allocation is up to date and reflects the current occupancy status."
+    "description": "Assign residents to their respective apartments or units, maintaining up-to-date allocations that accurately reflect current occupancy status. This practice ensures efficient management of living spaces, enhancing organization and providing clarity on resident arrangements."
   },
   {
     "id": 9,
-    "title": "Complaint Management and Security",
+    "title": "Complaint Management Security",
     "imageSrc": "/images/Clipart/9.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Consider using property management software or a customer relationship management (CRM) system to streamline the issue tracking process, automate notifications, and manage communication more efficiently."
+    "description": "Optimize issue tracking by leveraging property management software system. Automate notifications and enhance communication efficiency, ensuring a streamlined and effective approach to managing concerns, ultimately improving the overall management process."
   },
   {
     "id": 10,
     "title": "Digitized Communications",
     "imageSrc": "/images/Clipart/10.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Promptly acknowledge the issue, using automated or personal responses, to reassure residents. Keep them updated on issue status and expected resolution times for effective communication."
+    "description": "Swiftly acknowledge issues with automated or personalized responses to reassure residents. Provide regular updates on issue status and anticipated resolution times, fostering effective communication and ensuring residents are well-informed and satisfied."
   },
   {
     "id": 11,
-    "title": "Manage Staff and Vendors",
+    "title": "Manage Staff Vendors",
     "imageSrc": "/images/Clipart/11.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
-    "description": "Clearly define job roles, expectations, and performance standards for each staff member and Vendor. Communicate company values, mission, and goals to create a shared sense of purpose."
+    "description": "Define roles, expectations, and performance standards for each staff member and vendor clearly. Communicate company values, mission, and goals to foster a shared sense of purpose, promoting a cohesive and motivated work environment."
   },
   {
     "id": 12,
     "title": "Visitor Management System",
     "imageSrc": "/images/Clipart/12.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "A Visitor Management System (VMS) is a software application or system designed to efficiently and securely manage the entry and exit of visitors to a facility or premises using QR code enabled which helps to hassle-free authorize access."
   },
   {
     "id": 13,
-    "title": "Services and Staff Monitoring",
+    "title": "Services Staff Monitoring",
     "imageSrc": "/images/Clipart/13.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "Effective monitoring is vital for efficiency, compliance, and resource management. It offers insights, optimizes resource allocation, and ensures standards compliance. Robust monitoring is key to organizational success."
   },
   {
     "id": 14,
-    "title": "User-friendly and Intuitive Guard App",
+    "title": "User-friendly Intuitive Guard",
     "imageSrc": "/images/Clipart/14.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "Creating a user-friendly and intuitive guard app is essential for security personnel to efficiently manage their responsibilities. This app is designed to keep things simple so that guards can use it efficiently."
   },
   {
     "id": 15,
     "title": "Facility Services Oversight",
     "imageSrc": "/images/Clipart/15.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "Amenities management involves the efficient and effective operation, maintenance, and enhancement of amenities within a property or facility. Here's a guide to amenities management."
   },
   {
     "id": 16,
     "title": "Administration Application Access",
     "imageSrc": "/images/Clipart/16.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "An admin app, short for administrative application, streamlines tasks like scheduling, document management, and data analysis for efficient operations. It's a vital tool for modern organizations."
   },
   {
     "id": 17,
     "title": "Graphical Reports",
     "imageSrc": "/images/Clipart/5.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "Graphical reports, also known as visual reports, are documents or presentations that use visual elements, such as charts, graphs, diagrams, and images, to convey information, data, and insights to the audience."
   },
   {
     "id": 18,
-    "title": "Complaint Management and Security",
+    "title": "Complaint Management Security",
     "imageSrc": "/images/Clipart/9.png",
-    "imageHeight": 250,
-    "imageWidth": 300,
     "description": "Consider using property management software or a customer relationship management (CRM) system to streamline the issue tracking process, automate notifications, and manage communication more efficiently."
   }
-  
 ]
