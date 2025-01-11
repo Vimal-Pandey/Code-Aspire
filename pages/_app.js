@@ -15,6 +15,8 @@ import "../styles/footer.css";
 import "../styles/globals.css";
 // Responsive CSS
 import "../styles/responsive.css";
+// SFA-Privacy-policy CSS
+import "../styles/prism-sfa-policy.css";
 
 import Head from "next/head";
 import ScrollToTop from "@/components/Layout/ScrollToTop";

@@ -133,6 +133,12 @@ const Footer = () => {
                       <a>Privacy Policy</a>
                     </Link>
                   </li>
+
+                  <li>
+                    <Link href="/prism-sfa-policy">
+                      <a>Prism SFA Policy</a>
+                    </Link>
+                  </li>
                   
                 </ul>
               </div>
