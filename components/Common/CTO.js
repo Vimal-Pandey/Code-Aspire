@@ -23,7 +23,7 @@ const CTO = () => {
               <div className="overview-card">
                 <h3>Email Us</h3>
                 <span>
-                  <a href="mailto:hr@code-aspire.com">hr@code-aspire.com</a>
+                  <a href="mailto:info@code-aspire.com">info@code-aspire.com</a>
                 </span>
 
                 <div className="overview-shape">
