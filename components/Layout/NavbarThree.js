@@ -236,8 +236,8 @@ const NavbarThree = () => {
 
                   <li>
                     <i className="ri-mail-line"></i>{" "}
-                    <a href="mailto:hr@code-aspire.com">
-                      hr@code-aspire.com</a>
+                    <a href="mailto:info@code-aspire.com">
+                      info@code-aspire.com</a>
                   </li>
                 </ul>
               </div>
